@@ -1,0 +1,14 @@
+{
+  "name": "sqs-dltr",
+  "version": "1.0.0",
+  "description": "AWS SQS manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dltr.org",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.6.4"
+  }
+}
